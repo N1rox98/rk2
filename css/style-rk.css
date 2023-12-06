@@ -73,6 +73,7 @@ h1{
     background-color: white;
     border-radius: 12px;
     vertical-align: middle;
+    text-align: center;
 }
 
 .offer{
@@ -102,4 +103,5 @@ h1{
     /* position: realative;
     top: 56px; */
    align-content: center;
+   text-align: center;
 }
